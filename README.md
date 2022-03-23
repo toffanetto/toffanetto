@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my code world!
+
+For the whole world:
+
+Hi everyone, my name ia Gabriel but everyone calls me Toffanetto. I'm in love with robotics and currently I have study ROS 2 a lot. I programming in C++ but I aready had some experience with Java, Python, Dart and SQL.
+
+Para os BR:
+
+Olá pessoal, meu nome é Gabriel mas todos me chamam de Toffanetto. Sou apaixonado em robótica e atualmente tenho estudado bastante o ROS 2. Programo em C++ mas já tive alguma experiência com Java, Python, Dart e SQL. 
 
 <!--
 **toffanetto/toffanetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
