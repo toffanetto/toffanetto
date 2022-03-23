@@ -10,9 +10,8 @@ Olá pessoal, meu nome é Gabriel mas todos me chamam de Toffanetto. Sou apaixon
 
 ---
 
-<p align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toffanetto&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
 <!--
