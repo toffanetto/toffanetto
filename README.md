@@ -8,6 +8,8 @@ Para os BR:
 
 Olá pessoal, meu nome é Gabriel mas todos me chamam de Toffanetto. Sou apaixonado em robótica e atualmente tenho estudado bastante o ROS 2. Programo em C++ mas já tive alguma experiência com Java, Python, Dart e SQL. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **toffanetto/toffanetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
