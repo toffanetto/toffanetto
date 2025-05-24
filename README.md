@@ -2,11 +2,15 @@
 
 For the whole world:
 
-Hi everyone, my name ia Gabriel but everyone calls me Toffanetto. I'm in love with robotics and currently I have study ROS 2 a lot and also work on MicroROS performance analysis. I programming in C++ but I aready had some experience with Java, Python, Dart and SQL.
+Hi everyone, my name is Gabriel, but everyone calls me Toffanetto. I'm in love with robotics and autonomous vehicles. Currently, I am working with Autoware and V2X for Connected Autonomous Vehicles (CAVs). I have extensive experience with ROS2 and micro-ROS, and my primary tool is always C/C++.
+
+I am addicted to LaTeX and always waste so much time polishing my documents.
 
 Para os BR:
 
-Olá pessoal, meu nome é Gabriel mas todos me chamam de Toffanetto. Sou apaixonado em robótica e atualmente tenho estudado bastante o ROS 2 e também trabalhado com análises de desempenho do MicroROS. Programo em C++ mas já tive alguma experiência com Java, Python, Dart e SQL. 
+Olá pessoal, meu nome é Gabriel mas todos me chamam de Toffanetto. Sou apaixonado em robótica e veículos autonomos. Atualmente estou trabalhando com o Autoware e V2X para veículos autonomos conectados. Eu tenho grande experiencia com ROS2 e micro-ROS, e minha principal ferramente é sempre C/C++.
+
+Sou viciado em LaTex e sempre perco muito tempo lapidando meus documentos.
 
 ---
 
